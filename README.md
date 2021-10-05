@@ -1,2 +1,2 @@
 # Immunophenotyping
-#40 color OMIP panel
+40 color OMIP panel
